@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FILEHEADER</key>
+<string>/*
+ * Copyright(C) Koninklijke Philips N.V. ___YEAR___
+ *
+ *  All rights are reserved. Reproduction or transmission in whole or in part, in
+ *  any form or by any means, electronic, mechanical or otherwise, is prohibited
+ *  without the prior written permission of the copyright owner.
+ *
+ *  File Name : ___FILENAME___
+ *  Owner: ___FULLUSERNAME___
+ */</string>
+</dict>
+</plist>
